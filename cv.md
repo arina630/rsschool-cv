@@ -24,7 +24,7 @@ I've already faced a lot of challenges and I know there will be more. But I'm su
 ```
 
 ## Experience 
-* 
+* [Rsschool-cv](https://github.com/arina630/rsschool-cv/blob/gh-pages/README.md)
 ## Education 
 * Course [Профессия Frontend-разработчик PRO2021](https://skillbox.by/course/frontend-pro-expert/) (I didn't finish it, I started taking RS school course)
 
